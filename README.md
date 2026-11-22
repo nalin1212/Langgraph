@@ -3,7 +3,7 @@
 
 Hands-on Jupyter notebooks that build up a LangGraph agent step by step: a plain chatbot, tool calling, a ReAct-style loop, persistent memory, streaming, and human-in-the-loop interrupts.
 
-**Stack:** [LangGraph](https://langchain-ai.github.io/langgraph/) · [LangChain](https://python.langchain.com/) · [Groq](https://groq.com/) (`qwen/qwen3.8-27b`) · [Tavily Search](https://tavily.com/) · Python 3.12
+**Stack:** [LangGraph](https://langchain-ai.github.io/langgraph/) · [LangChain](https://python.langchain.com/) · [Groq](https://groq.com/) (`____`) · [Tavily Search](https://tavily.com/) · Python 3.12
 
 ---
 
