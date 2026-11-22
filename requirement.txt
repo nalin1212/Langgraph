@@ -1,0 +1,11 @@
+langchain
+langgraph
+langsmith
+langchain-groq
+groq
+python-dotenv
+pydantic
+ipykernel
+notebook
+jupyter
+langchain-tavily
