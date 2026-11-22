@@ -150,7 +150,7 @@ for event in graph.stream(human_command, config, stream_mode="values"):
 
 ## Notes
 
-- Notebooks use `qwen/qwen3.8-27b` on Groq. Swap the model name in `init_chat_model` / `ChatGroq` to use another provider or model.
+- Notebooks use `_____` on Groq. Swap the model name in `init_chat_model` / `ChatGroq` to use another provider or model.
 - Tavily and Groq calls use your API quota. Keep keys out of version control.
 
 ---
@@ -165,5 +165,3 @@ for event in graph.stream(human_command, config, stream_mode="values"):
 ---
 
 ## License
-
-MIT (add a `LICENSE` file or change as appropriate).
